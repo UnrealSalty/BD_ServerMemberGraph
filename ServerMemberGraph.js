@@ -3,6 +3,7 @@
  * @author Salty
  * @description Adds an option to view a graph of the server member count over the past week when right-clicking on a server.
  * @version 1.0
+ * @updateUrl https://github.com/UnrealSalty/BD_ServerMemberGraph/blob/main/ServerMemberGraph.js
  */
 
 const { WebpackModules, Patcher, Modals, React } = BdApi;
